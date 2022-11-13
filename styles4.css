@@ -1,0 +1,25 @@
+body{
+  background-color: paleturquoise;
+}
+hr{
+  border-style: none;
+  border-bottom: dotted;
+  width: 10%;
+  border-width: 10px;
+  border-color: grey;
+}
+h1{
+  color: #66bfbf;
+}
+/*using a class tag to specify which tag to edit.*/
+.mypic{
+  width: 120px;
+  height: 120px;
+}
+/*Using ID Selectors*/
+#theading{
+  font-size: 20px;
+}
+img:hover{
+  background-color: gold;
+}
